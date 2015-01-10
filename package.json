@@ -2,7 +2,7 @@
   "name": "vitality-js",
   "description": "JavaScript parser and compressor/beautifier toolkit",
   "author": {
-    "name": "Burstable (Mick Hansen)",
+    "name": "Burstable (Mick Hansen)"
   },
   "version": "0.0.1",
   "main": "./lib/vitality.js",
