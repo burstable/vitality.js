@@ -68,7 +68,7 @@ Returns the current memory usage and cpu idle/total.
 
 ### `vitality.difference(previous, current)`
 
-Calculates the cpu utilization between two `vitality.get()` calls. Always returns memory usage (latest).
+Calculates the cpu utilization between two `vitality.get()` calls. Also returns memory usage (latest).
 
 ```js
 /*
