@@ -3,7 +3,10 @@ Easily poll the health (cpu &amp; mem) of your server
 
 ## Install
 
-$ npm install --save vitality-js
+`$ npm install --save vitality-js`
 
 ## Usage
 
+```js
+var vitality = require('vitality-js');
+```
