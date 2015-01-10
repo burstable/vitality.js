@@ -1,14 +1,14 @@
 {
   "name": "vitality-js",
-  "description": "JavaScript parser and compressor/beautifier toolkit",
+  "description": "Easily poll the health (cpu & mem) of your server",
   "author": {
     "name": "Burstable (Mick Hansen)"
   },
-  "version": "0.0.1",
+  "version": "0.0.3",
   "main": "./lib/vitality.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:burstable/vitality-js.git"
+    "url": "git@github.com:burstable/vitality.js.git"
   },
   "devDependencies": {
   
